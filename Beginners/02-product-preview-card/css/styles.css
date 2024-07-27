@@ -31,6 +31,7 @@ body {
 .attribution a { color: hsl(228, 45%, 44%); }
 
 .card {
+  margin-top: 50px;
   flex-direction: column;
   max-width: 37.5rem;
   font-size: 1.4rem;
@@ -42,7 +43,7 @@ body {
   background-image: url('../images/image-product-mobile.jpg');
   border-radius: 1rem 1rem 0 0;
   background-size: cover;
-  background-position: bottom;
+  background-position: top;
   min-height: 30rem;
 }
 
