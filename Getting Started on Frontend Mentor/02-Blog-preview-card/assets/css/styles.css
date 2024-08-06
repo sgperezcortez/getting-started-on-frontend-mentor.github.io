@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+    --bg-yellow: hsl(47, 88%, 63%);
+    --bg-white: hsl(0, 0%, 100%);
+    --clr-g500: hsl(0, 0%, 42%);
+    --clr-g950: hsl(0, 0%, 7%);
+}
+
+body {
+    font-family: "Figtree", sans-serif;
+    background-color: var(--bg-yellow);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: var(--bg-white);
+    max-width: 30rem;
+    border-radius: 2rem;
+    border: 2px solid var(--clr-g950);
+    padding: 2rem;
+    box-shadow: 0.5rem 0.5rem var(--clr-g950);
+}
+
+.card__img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.card__content {
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+.card__content>* {
+    margin-bottom: 1rem;
+}
+
+.card__tag {
+    background-color: var(--bg-yellow);
+    width: fit-content;
+    padding: 0rem 1rem;
+    font-weight: 800;
+}
+
+.card__published {
+    font-weight: 500;
+}
+
+.card__title {
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+
+.card__text {
+    font-size: 1.4rem;
+}
+
+.card__author {
+    display: flex;
+    align-items: center;
+}
+
+.card__author-img {
+    max-width: 10%;
+}
+
+.card__author-name {
+    margin-left: 1rem;
+    font-weight: 800;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
