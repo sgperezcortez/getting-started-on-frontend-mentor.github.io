@@ -6,8 +6,8 @@ These projects will help you find your feet on the Frontend Mentor platform and 
 Newbie
 
 ## Projects
-1. [QR code component main]()
-2. [Responsive Blog Preview Card]()
+1. [QR code component main](./beginners/01-qr-code)
+2. [Responsive Blog Preview Card](./beginners/02-Blog-preview-card)
 3. [Responsive Social Links Profile]()
 4. [Recipe page]()
 
@@ -16,6 +16,7 @@ Newbie
 - Set up your development environment
 - Learn Git and GitHub basics
 - Build your first projects
+  - Semantic HTML
   - Mobile first design
   - Block Element Modifier methodology
   - Responsive Web Design
