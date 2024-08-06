@@ -7,9 +7,9 @@ Newbie
 
 ## Projects
 1. [QR code component main](Beginners/01-qr-code/README.md)
-2. [Responsive Blog Preview Card](./beginners/02-Blog-preview-card)
-3. [Responsive Social Links Profile]()
-4. [Recipe page]()
+2. [Responsive Blog Preview Card](Beginners/02-Blog-preview-card/README.md)
+3. [Responsive Social Links Profile](Beginners/03-social-links-profile/README.md)
+4. [Recipe page](Beginners/04-recipe-page/README.md)
 
 ##  Learning outcomes
 - Get up and running on Frontend Mentor
