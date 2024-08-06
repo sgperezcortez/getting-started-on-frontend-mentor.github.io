@@ -6,10 +6,10 @@ These projects will help you find your feet on the Frontend Mentor platform and 
 Newbie
 
 ## Projects
-1. [QR code component main](Beginners/01-qr-code/README.md)
-2. [Responsive Blog Preview Card](Beginners/02-Blog-preview-card/README.md)
-3. [Responsive Social Links Profile](Beginners/03-social-links-profile/README.md)
-4. [Recipe page](Beginners/04-recipe-page/README.md)
+1. [QR code component main](projects/01-qr-code/README.md)
+2. [Responsive Blog Preview Card](projects/02-Blog-preview-card/README.md)
+3. [Responsive Social Links Profile](projects/03-social-links-profile/README.md)
+4. [Recipe page](projects/04-recipe-page/README.md)
 
 ##  Learning outcomes
 - Get up and running on Frontend Mentor
